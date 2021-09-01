@@ -1,2 +1,0 @@
-# Mirepositorio
- proyecto web
